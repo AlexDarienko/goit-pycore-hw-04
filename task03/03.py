@@ -41,4 +41,10 @@ if __name__ == "__main__":
     main()
 
 # Example usage:
+# python -m venv env
+# source env/bin/activate   # for Unix/MacOS
+# env\Scripts\activate      # for Windows
+
+# pip install colorama
+
 # python 03.py test_dir
